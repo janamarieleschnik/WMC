@@ -1,0 +1,17 @@
+
+.antic-didone-regular {
+  font-family: "Antic Didone", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+body {
+    background-color: #ddc8af;
+    font-family: "Antic Didone", serif;
+}
+h1 {
+    color: #3e781a;
+}
+h2 {
+    color: #cb6c5e ;
+}
